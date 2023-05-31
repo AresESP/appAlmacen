@@ -1,0 +1,15 @@
+# Fichero de configuración
+# 26/04/2023
+
+#Database Model
+FactoryDAO=MARIADB
+
+#Database Name
+Database=almacen
+
+#Tables Names
+cliente=cliente
+compra=compra
+compraproducto=compraproducto
+producto=producto
+vendedor=vendedor
